@@ -13,4 +13,7 @@ A bank wants to create a system to track information about its customers, accoun
 1. One Customer can have several Accounts, but each Account can only be owned by one Customer.
 2. One Account can have many Transactions, but each Transaction is only related to one Account.
 
-![ERD_bank_system - page 2 (1)](https://github.com/user-attachments/assets/147a9622-db83-464f-9429-93497c723fab)
+## ERD
+
+![ERD_bank_system - page 2 (2)](https://github.com/user-attachments/assets/8e78f81d-7825-438d-b320-731f935e3b87)
+
